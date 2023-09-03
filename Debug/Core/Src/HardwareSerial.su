@@ -1,0 +1,25 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+HardwareSerial.cpp:14:1:HardwareSerial::HardwareSerial(UART_HandleTypeDef*)	16	static
+HardwareSerial.cpp:16:5:int HardwareSerial::begin(long unsigned int)	16	static
+HardwareSerial.cpp:34:5:int HardwareSerial::println(const char*)	16	static
+HardwareSerial.cpp:38:5:int HardwareSerial::println(int)	16	static
+HardwareSerial.cpp:42:5:int HardwareSerial::println(double, int)	24	static
+HardwareSerial.cpp:47:5:int HardwareSerial::print(const char*)	24	static
+HardwareSerial.cpp:51:5:int HardwareSerial::print(char)	16	static
+HardwareSerial.cpp:54:5:int HardwareSerial::println(char)	16	static
+HardwareSerial.cpp:57:5:int HardwareSerial::write(char*, uint16_t)	24	static
+HardwareSerial.cpp:60:5:int HardwareSerial::print(int)	40	static
+HardwareSerial.cpp:65:5:int HardwareSerial::print(double, int)	48	static
+HardwareSerial.cpp:81:5:int HardwareSerial::print(int, int)	64	static
+HardwareSerial.cpp:101:9:uint8_t HardwareSerial::available()	16	static
+HardwareSerial.cpp:108:9:uint8_t HardwareSerial::read()	16	static
+HardwareSerial.cpp:116:8:std::__cxx11::string HardwareSerial::readString()	24	static
+HardwareSerial.cpp:134:6:void HardwareSerial::print(const string&)	32	static
+HardwareSerial.cpp:139:6:void HardwareSerial::println(const string&)	32	static
+stl_iterator.h:880:5:bool __gnu_cxx::operator!=(const __gnu_cxx::__normal_iterator<_Iterator, _Container>&, const __gnu_cxx::__normal_iterator<_Iterator, _Container>&) [with _Iterator = const char*; _Container = std::__cxx11::basic_string<char>]	24	static
+stl_iterator.h:800:7:__gnu_cxx::__normal_iterator<_Iterator, _Container>& __gnu_cxx::__normal_iterator<_Iterator, _Container>::operator++() [with _Iterator = const char*; _Container = std::__cxx11::basic_string<char>]	16	static
+stl_iterator.h:792:7:__gnu_cxx::__normal_iterator<_Iterator, _Container>::reference __gnu_cxx::__normal_iterator<_Iterator, _Container>::operator*() const [with _Iterator = const char*; _Container = std::__cxx11::basic_string<char>]	16	static
+stl_iterator.h:844:7:const _Iterator& __gnu_cxx::__normal_iterator<_Iterator, _Container>::base() const [with _Iterator = const char*; _Container = std::__cxx11::basic_string<char>]	16	static
+HardwareSerial.cpp:144:1:void __static_initialization_and_destruction_0(int, int)	16	static
+HardwareSerial.cpp:144:1:cpp)	8	static
+HardwareSerial.cpp:144:1:cpp)	8	static
